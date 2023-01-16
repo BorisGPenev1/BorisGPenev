@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Boris
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 📫 How to reach me  via email (borisbot222@gmail.com)
+- 📫 How to reach me  via email (borisgpenev@gmail.com) or (borisbot222@gmail.com)
 - Social media
 - Tiktok (BorisGPenev1234)
 - Twiiter ( @boris_penev )
