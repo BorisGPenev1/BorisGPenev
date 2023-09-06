@@ -5,7 +5,7 @@
 - Social media
 - Tiktok  @BorisGPenev1234 
 - Twiiter  @boris_penev 
-- Discord  BorisGPenev#4871
+- Discord  borisgpenev
 <!---
 BorisGPenev1/BorisGPenev1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
